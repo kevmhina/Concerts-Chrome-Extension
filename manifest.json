@@ -1,7 +1,7 @@
 {
       "name": "Next Sheffield Concerts",
       "version": "1.0.0",
-      "description": "This is a chrome extension that provides details about the next concerts to play in the London area in the United Kingdom",
+      "description": "This is a chrome extension that provides details about the next concerts to play in the Sheffield area in the United Kingdom",
       "manifest_version": 3,
       "author": "Kelvin Nokhufunekho Mhina",
       "action": {
